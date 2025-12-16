@@ -6,7 +6,7 @@ Aplicación con interfaz gráfica para detectar peces en videos usando modelos Y
 
 Esta aplicación permite la detección de peces en videos mediante el uso de modelos de detección de objetos YOLO (You Only Look Once). Cuenta con una interfaz gráfica intuitiva desarrollada en Python con Tkinter.
 
-## 👥 Integrantes del Grupo
+## 👥 Integrantes del Grupo donde yorsh es el delegado
 
 | N° | Nombres y Apellidos |
 |----|---------------------|
