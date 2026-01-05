@@ -14,7 +14,7 @@ Esta aplicación permite la detección de peces en videos mediante el uso de mod
 | 2 | CANAZA PAUCARA JUAN DIEGO |
 | 3 | CASTRO CALLO VANESSA YHOSELIN |
 | 4 | OLARTE QUISPE JORGE GUILLERMO |
-| 5 | TICONO MARQUEZ CRISTIAN ADERLY |
+| 5 | TICONA MARQUEZ CRISTIAN ADERLY |
 
 ## 🛠️ Tecnologías Utilizadas
 
